@@ -1,4 +1,4 @@
-import MovieApplication from './components/movieapplication';
+import MovieApplication from './components/movieApplication';
 
 export default function Home() {
   return (

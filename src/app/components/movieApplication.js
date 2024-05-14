@@ -1,10 +1,10 @@
 "use client";
 
 import React, { useState } from 'react';
-import AddMovieForm from './addmovieform';
+import AddMovieForm from './addMovieForm';
 import Movies from './movies';
-import OrderByAlphaButton from './orderbyalphabutton';
-import OrderByGradeButton from './orderbygradebutton';
+import OrderByAlphaButton from './orderByAlphaButton';
+import OrderByGradeButton from './orderByGradeButton';
 import styles from '../page.module.css';
 
 const MovieApplication = () => {
